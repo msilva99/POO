@@ -20,5 +20,6 @@ public class TesteYoutube
         for(int i = 0; i < 6; i++)
             teste.thumbsUp();
         System.out.print(teste.toString());
+        System.out.println(teste.qtsDiasDepois());
     }
 }
